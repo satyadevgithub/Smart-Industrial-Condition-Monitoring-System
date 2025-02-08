@@ -136,5 +136,5 @@ If you'd like to contribute, please **fork the repository**, make your changes, 
 ## 💬 Need Help?
 If you have any questions, feel free to reach out! 🚀  
 🔹 **GitHub:** [github.com/satyadevgithub](https://github.com/satyadevgithub)  
-🔹 **LinkedIn:** [linkedin.com/in/satyadev](https://linkedin.com/in/satyadev)  
+🔹 **LinkedIn:** [linkedin.com/in/satya-dev-mishra](https://linkedin.com/in/satya-dev-mishra)  
 🔹 **Email:** ceo@satyadevmishra.com  
